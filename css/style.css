@@ -1143,14 +1143,14 @@ a:focus {
 }
 
 .contact_card:hover {
-    background: #007bff;
+    background: #ff0000;
     color: white;
 }
 
 .contact_card i {
     font-size: 40px;
     margin-bottom: 10px;
-    color: #007bff;
+    color: #ff0000;
 }
 
 .contact_card:hover i {

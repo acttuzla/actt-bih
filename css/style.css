@@ -1128,4 +1128,11 @@ a:focus {
 .footer_section p a {
   color: inherit;
 }
+.text-box {
+  border: 2px solid #444444; /* Crni okvir debljine 2px */
+  padding: 15px; /* Razmak unutar okvira */
+  border-radius: 10px; /* Zaobljeni uglovi */
+  background-color: #ffffff; /* Blago siva pozadina */
+  text-align: justify; /* Poravnanje teksta */
+}
 /*# sourceMappingURL=style.css.map */

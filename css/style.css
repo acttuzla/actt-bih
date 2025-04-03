@@ -1128,11 +1128,36 @@ a:focus {
 .footer_section p a {
   color: inherit;
 }
-.text-box {
-  border: 2px solid #444444; /* Crni okvir debljine 2px */
-  padding: 15px; /* Razmak unutar okvira */
-  border-radius: 10px; /* Zaobljeni uglovi */
-  background-color: #ffffff; /* Blago siva pozadina */
-  text-align: justify; /* Poravnanje teksta */
+.contact_section {
+    text-align: center;
+    padding: 50px 0;
 }
+
+.contact_card {
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: 0.3s;
+}
+
+.contact_card:hover {
+    background: #007bff;
+    color: white;
+}
+
+.contact_card i {
+    font-size: 40px;
+    margin-bottom: 10px;
+    color: #007bff;
+}
+
+.contact_card:hover i {
+    color: white;
+}
+
+.contact_card h4 {
+    font-weight: bold;
+    margin-bottom: 10px;
 /*# sourceMappingURL=style.css.map */

@@ -1160,4 +1160,11 @@ a:focus {
 .contact_card h4 {
     font-weight: bold;
     margin-bottom: 10px;
+
+.text-box {
+  border: 2px solid #444444; /* Crni okvir debljine 2px */
+  padding: 15px; /* Razmak unutar okvira */
+  border-radius: 10px; /* Zaobljeni uglovi */
+  background-color: #ffffff; /* Blago siva pozadina */
+  text-align: justify; /* Poravnanje teksta *
 /*# sourceMappingURL=style.css.map */
